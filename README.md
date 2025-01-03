@@ -1,23 +1,7 @@
-
----
-
-<p align="center">
-  <img src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" alt="Full-Stack Developer Image"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Shohan Islam Joy</h1>
 <p align="center">A Full-Stack Developer | Problem Solver | Tech Enthusiast | Blockchain & AI Explorer</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohanislamjoy&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shohanislamjoy&theme=dracula" alt="GitHub Trophies"/></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
 </p>
 
 ---
@@ -51,7 +35,7 @@
 ### 🌟 **Languages and Tools**
 
 <p align="center">
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
@@ -77,6 +61,9 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shohanislamjoy&theme=github"/>
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shohanislamjoy&theme=github"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohanislamjoy&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
 
 ---
-

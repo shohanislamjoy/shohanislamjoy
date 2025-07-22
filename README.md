@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shohan Islam Joy
+<h1 align="center">Hi 👋, I'm Shohan Islam Joy</h1> 
 <p align="center">🚀 Full-Stack Developer | 🔐 Blockchain & AI Explorer | 🛠️ Problem Solver</p>
 
 <p align="center">

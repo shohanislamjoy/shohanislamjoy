@@ -36,7 +36,7 @@
 
 ### 📫 Connect with Shohan Islam Joy
 - 📧 Email: [shohanislamjoy@gmail.com](mailto:shohanislamjoy@gmail.com)
-- 🌐 Portfolio: [shohanislamjoy.github.io/Portfolio](https://shohanislamjoy.github.io/Portfolio)
+- 🌐 Portfolio:[https://shohanislamjoy.github.io/Portfolio](https://shohanislamjoy.github.io/)
 - 🔗 LinkedIn: [linkedin.com/in/shohan-islam-joy](https://linkedin.com/in/shohan-islam-joy)
 
 ---

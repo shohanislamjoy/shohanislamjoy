@@ -79,7 +79,7 @@ Here are some of the key projects I've developed.
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to reach out to me.
 
 -   **Email:** <a href="mailto:shohanislamjoy@gmail.com">shohanislamjoy@gmail.com</a>
--   **Portfolio:** <a href="https://shohanislamjoy.github.io/Portfolio" target="_blank" rel="noopener noreferrer">shohanislamjoy.github.io/Portfolio</a>
+-   **Portfolio:** <a href="https://shohanislamjoy.github.io/" target="_blank" rel="noopener noreferrer">shohanislamjoy.github.io/Portfolio</a>
 -   **LinkedIn:** <a href="https://www.linkedin.com/in/shohan-islam-joy" target="_blank" rel="noopener noreferrer">linkedin.com/in/shohan-islam-joy</a>
 
 ---
